@@ -17,7 +17,7 @@ No desenvolvimento desse jogo foram utilizadas as seguintes Tecnologias e lingua
 * Javascript
 
 
-# [Click aqui para JOGAR!!](https://therafagod.github.io/js-virtual-music-keyboard/)
+# [Click aqui para EXPERIMENTAR!!](https://therafagod.github.io/js-virtual-music-keyboard/)
 
 
 
